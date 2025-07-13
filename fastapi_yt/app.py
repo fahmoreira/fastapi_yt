@@ -1,4 +1,4 @@
-from http import HTTPStatus 
+from http import HTTPStatus
 
 from fastapi import FastAPI
 
